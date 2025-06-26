@@ -1,0 +1,14 @@
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\bin\Debug\net8.0\Servidor.exe
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\bin\Debug\net8.0\Servidor.deps.json
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\bin\Debug\net8.0\Servidor.runtimeconfig.json
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\bin\Debug\net8.0\Servidor.dll
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\bin\Debug\net8.0\Servidor.pdb
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\obj\Debug\net8.0\Servidor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfoInputs.cache
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\obj\Debug\net8.0\Servidor.AssemblyInfo.cs
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\obj\Debug\net8.0\Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\obj\Debug\net8.0\Servidor.dll
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\obj\Debug\net8.0\refint\Servidor.dll
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\obj\Debug\net8.0\Servidor.pdb
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\obj\Debug\net8.0\Servidor.genruntimeconfig.cache
+C:\Users\Carlo\OneDrive\Área de Trabalho\Programação\Faculdade\Redes\Servidor\obj\Debug\net8.0\ref\Servidor.dll
